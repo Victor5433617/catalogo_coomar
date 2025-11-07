@@ -118,6 +118,10 @@ const Index = () => {
           <p className="text-lg md:text-xl text-primary-foreground/90 max-w-2xl mx-auto animate-in fade-in slide-in-from-bottom duration-700 delay-150">
             Descubre nuestra selección de productos de calidad
           </p>
+          <p className="text-lg md:text-xl text-primary-foreground/90 max-w-2xl mx-auto text-center leading-relaxed tracking-wide animate-in fade-in slide-in-from-bottom-4 duration-700 delay-150
+">
+            Para consultas al: <a href="https://wa.link/96b69i " target="blank">+595983860064</a> 
+          </p>
         </div>
       </section>
 
