@@ -13,10 +13,7 @@ const Navbar = () => {
           
           <div className="flex items-center gap-4">
             <Link to="/auth">
-              <Button variant="ghost" size="sm">
-                <User className="h-4 w-4 mr-2" />
-                Admin
-              </Button>
+              
             </Link>
           </div>
         </div>
