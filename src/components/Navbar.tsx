@@ -15,7 +15,7 @@ const Navbar = () => {
             <Link to="/auth">
               <Button variant="ghost" size="sm">
                 <User className="h-4 w-4 mr-2" />
-                Admin
+                
               </Button>
             </Link>
           </div>
